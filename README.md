@@ -11,10 +11,31 @@
   <a href="https://github.com/NeetuChaurasiya?tab=followers"><img src="https://img.shields.io/github/followers/NeetuChaurasiya?label=Followers&style=social" alt="GitHub Followers Badge"></a>
 </p>
 
+<!-- GitHub Stats Section -->
+<h3><i>📊 GitHub Stats</i></h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neetu1123&show_icons=true&theme=radical" alt="Neetu's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neetu1123&theme=radical" alt="Neetu's GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetu1123&layout=compact&theme=radical" alt="Neetu's Top Languages" />
+</div>
+
+<!-- Achievements Section -->
+<h3><i>🏆 Achievements & Certifications</i></h3>
+<ul>
+  <li>🥇 Full Stack Web Development - Completed intensive training program</li>
+  <li>🚀 Developed and deployed 20+ full-stack web applications</li>
+  <li>🔍 Specialized in Vue.js and Nuxt.js front-end development</li>
+  <li>🌐 Implemented SEO optimization for multiple client projects</li>
+  <li>📈 Improved website performance metrics by an average of 40%</li>
+  <li>👨‍👩‍👧‍👦 Led a team of 5 developers for client portal project</li>
+</ul>
+
 <h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35" /></i></h3>
 
 <p align="left">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -46,11 +67,28 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
+<!-- GitHub Activity Graph -->
+<h3><i>📈 Activity Graph</i></h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neetu1123&theme=radical" alt="Neetu's Activity Graph" width="100%" />
+</div>
+
+<!-- GitHub Trophies -->
+<h3><i>🏆 GitHub Trophies</i></h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=neetu1123&theme=radical&row=1&column=7" alt="Neetu's GitHub Trophies" />
+</div>
+
 <h3><i>Let's Connect !! <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
   <a href="mailto:neetuchaurasiya5041@example.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://wa.me/1234567890" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://neetuportfolio.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </p>
+
+<!-- Profile Visitors Count -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=neetu1123&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Visitors" />
+</div>
 
 <p align="center" style="margin-top: 20px;">Thanks a lot! ❤️</p>
